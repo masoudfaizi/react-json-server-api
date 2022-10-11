@@ -1,0 +1,148 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "first_name": "Paul",
+      "last_name": "The grand healer",
+      "email": "paulthegrand@stmedical.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "Charité – Universitätsmedizin Berlin"
+    },
+    {
+      "id": 2,
+      "first_name": "Pam",
+      "last_name": "Paulson",
+      "email": "pampaulson@gmail.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "DRK Kliniken"
+    },
+    {
+      "id": 3,
+      "first_name": "Paul2",
+      "last_name": "The grand healer",
+      "email": "paulthegrand@stmedical.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "Charité – Universitätsmedizin Berlin"
+    },
+    {
+      "id": 4,
+      "first_name": "Pam2",
+      "last_name": "Paulson",
+      "email": "pampaulson@gmail.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "DRK Kliniken"
+    },
+    {
+      "id": 5,
+      "first_name": "Paul3",
+      "last_name": "The grand healer",
+      "email": "paulthegrand@stmedical.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "Charité – Universitätsmedizin Berlin"
+    },
+    {
+      "id": 6,
+      "first_name": "Pam3",
+      "last_name": "Paulson",
+      "email": "pampaulson@gmail.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "DRK Kliniken"
+    },
+    {
+      "id": 7,
+      "first_name": "Paul4",
+      "last_name": "The grand healer",
+      "email": "paulthegrand@stmedical.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "Charité – Universitätsmedizin Berlin"
+    },
+    {
+      "id": 8,
+      "first_name": "Pam4",
+      "last_name": "Paulson",
+      "email": "pampaulson@gmail.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "DRK Kliniken"
+    },
+    {
+      "id": 9,
+      "first_name": "Paul5",
+      "last_name": "The grand healer",
+      "email": "paulthegrand@stmedical.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "Charité – Universitätsmedizin Berlin"
+    },
+    {
+      "id": 10,
+      "first_name": "Pam5",
+      "last_name": "Paulson",
+      "email": "pampaulson@gmail.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "DRK Kliniken"
+    },
+    {
+      "id": 11,
+      "first_name": "Paul6",
+      "last_name": "The grand healer",
+      "email": "paulthegrand@stmedical.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "Charité – Universitätsmedizin Berlin"
+    },
+    {
+      "id": 12,
+      "first_name": "Pam6",
+      "last_name": "Paulson",
+      "email": "pampaulson@gmail.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "DRK Kliniken"
+    },
+    {
+      "id": 13,
+      "first_name": "Paul7",
+      "last_name": "The grand healer",
+      "email": "paulthegrand@stmedical.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "Charité – Universitätsmedizin Berlin"
+    },
+    {
+      "id": 14,
+      "first_name": "Pam7",
+      "last_name": "Paulson",
+      "email": "pampaulson@gmail.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "DRK Kliniken"
+    },
+    {
+      "id": 15,
+      "first_name": "Pau8",
+      "last_name": "The grand healer",
+      "email": "paulthegrand@stmedical.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "Charité – Universitätsmedizin Berlin"
+    },
+    {
+      "id": 16,
+      "first_name": "Pam8",
+      "last_name": "Paulson",
+      "email": "pampaulson@gmail.com",
+      "city": "Berlin",
+      "area_of_expertise": "Allergy and Immunology",
+      "facility": "DRK Kliniken"
+    }
+
+  ]}
